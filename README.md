@@ -19,7 +19,7 @@ git config --global user.name "YourName"
 git init
 git add .
 git commit -m "first Maven project for Jenkins"
-git remote add origin git@github.com:yourusername/exp6-jenkins-ci
+git remote add origin git@github.com:Carnage725/devops-exp06
 git config --global push.autoSetupRemote true
 git push origin main
 ```
