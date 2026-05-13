@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'main', url: 'https://github.com/yourusername/exp6-jenkins-ci'
+                git branch: 'main', url: 'https://github.com/Carnage725/devops-exp06'
             }
         }
 
